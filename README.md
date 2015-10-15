@@ -1,4 +1,6 @@
-# Document Generation as a Service
+# Print the News 
+
+##A Document Generation as a Service example
 
 Example for using the RPE Document Generation Services on bluemix. This example is maintained by the IBM Publishing Engine team.
 This instance of the example is running at http://dgaasx_ddc.mybluemix.net/
