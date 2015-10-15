@@ -22,7 +22,7 @@ This instance of the example is running at http://dgaasx_ddc.mybluemix.net/
 	
 	2. Clear the Working Directory and Build Archive Directory properties from the build job
 	
-	![Build stage](https://github.com/dgaas/dgaas.example/tree/master/readme/hub_build_stage.png?raw=true)
+	![Build stage](https://raw.githubusercontent.com/dgaas/dgaas.example/master/readme/hub_build_stage.png)
 	
 2. Deploy stage
 	1. Create a deploy stage and a deploy job
@@ -30,7 +30,7 @@ This instance of the example is running at http://dgaasx_ddc.mybluemix.net/
 	
 	NOTE: the app name in the deploy stage must match the app name property from manifest.yml.  
 	
-	![Deploy stage](https://github.com/dgaas/dgaas.example/tree/master/readme/hub_deploy_stage.png?raw=true)
+	![Deploy stage](https://raw.githubusercontent.com/dgaas/dgaas.example/master/readme/hub_deploy_stage.png)
 
 3. From the Bluemix Dashboard add a "Document Generation" service to your workspace. The name of the service must be "Document Generation" as used in the manifest.yml file.
 
