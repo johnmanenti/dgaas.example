@@ -22,6 +22,8 @@ This instance of the example is running at http://dgaasx_ddc.mybluemix.net/
 	
 	2. Clear the Working Directory and Build Archive Directory properties
 	
+	![Build stage](https://github.com/dgaas/dgaas.example/tree/master/readme/hub_build_stage.png)
+	
 2. Deploy stage
 	1. Create a deploy stage and a deploy job
 	2. Ensure the app name is "dgaas_example" even if you used a different name for the project
