@@ -46,3 +46,4 @@ This instance of the example is running at http://dgaasx_ddc.mybluemix.net/
 	3. Commit and push the changes - this will also start the pipeline
 	
 	![Manifest.yml](https://raw.githubusercontent.com/dgaas/dgaas.example/master/readme/hub_manifest_yml.png)
+

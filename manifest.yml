@@ -2,12 +2,12 @@
 applications:
 
   # the value of the `name` property must be used in the deploy stage
-- name:   dgaas_example
+- name:   dgaasexample
   memory: 512M
   path:   target/DGaaSX-2.0.1.war
 
   # the value of the `host` property needs to be unique across mybluemix.net
-  host:   dgaasx_ddc
+  host:   dgaasexample
 
   # used services
 
